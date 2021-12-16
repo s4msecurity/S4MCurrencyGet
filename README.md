@@ -11,4 +11,3 @@ reconfigure with override<br>
 <hr>
 It will be enough for the user to enter two date ranges and run.<br>
 Ex: exec S4MCurrencyGet '2021-01-01','2021-12-10'<br>
-Thanks: https://github.com/ahmeticer
