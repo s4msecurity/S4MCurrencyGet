@@ -1,5 +1,4 @@
 # ScriptCurrencyGet
-
 Ready-to-use procedure for withdrawing currencies also prepared for SQL Server 2019.
 <hr>
 First, run the file named Create_Script_ZZ_CurrencyList.sql in SQL Server and create the tables.<br>
